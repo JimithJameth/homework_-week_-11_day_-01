@@ -1,5 +1,5 @@
 //li elements - name, favourite food, and image of cat
-// ul, li, li,(img)
+// ul,(img),li,li,
 
 
 var app = function(){
