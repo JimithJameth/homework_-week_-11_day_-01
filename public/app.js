@@ -11,6 +11,7 @@ var app = function(){
   //catimage
   var catImage = document.createElement('img');
   catImage.src="http://www.wallpaperbetter.com/wallpaper/338/939/769/cute-cat-with-sunglass-very-cool-1080P-wallpaper-middle-size.jpg"
+
   //catname
   var catName = document.createElement('li');
   catName.innerText = "Name: Jimmy Jenkings";
